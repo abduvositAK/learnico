@@ -1,0 +1,49 @@
+.hero{
+    background-color: #00353B;
+}
+.hero__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 48px;
+    padding-bottom: 80px;
+}
+.hero__desc{
+    width: 600px;
+    height: 400px;
+}
+.hero__title{
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 67.2px;
+    color: #fff;
+}
+.hero__parag{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #fff;
+}
+.hero__btn{
+    padding: 9px 21px;
+    background-color: #22A45A;
+    border-radius: 8px;
+    width: 150px;
+    height: 42px;
+    font-weight: 400;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 16px;
+}
+.hero__watch{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
